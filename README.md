@@ -9,9 +9,10 @@ A modern and responsive Shoe Store Landing Page built with React.js & Vite. Feat
 ✔ Optimized Performance with Vite
 
 🛠 Tech Stack
-React.js (Vite)
-HTML, CSS, JavaScript
-Flexbox & Media Queries
+
+<p>React.js (Vite)</p>
+<p>HTML, CSS, JavaScript</p>
+<p>Flexbox & Media Queries</p>
 
 ![Image](https://github.com/user-attachments/assets/26e181f0-bd53-4e12-80bb-734c306b62fa)
 
