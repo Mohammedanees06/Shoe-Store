@@ -1,6 +1,6 @@
-<h1>Shoe Store Landing Page – React.js </h1>
+# Shoe Store Project
 
-A modern and responsive Shoe Store Landing Page built with React.js & Vite. Features a stylish hero section, CTA buttons, and brand availability icons (Amazon & Flipkart).
+A React-based shoe store website showcasing stylish footwear with an interactive shopping experience.
 
 🚀 Features
 
