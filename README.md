@@ -16,9 +16,5 @@ Flexbox & Media Queries
 ![Image](https://github.com/user-attachments/assets/26e181f0-bd53-4e12-80bb-734c306b62fa)
 
 
-🔧 Setup
 
-git clone https://github.com/your-username/shoe-store-landing.git  
-cd shoe-store-landing  
-npm install  
-npm run dev  
+
