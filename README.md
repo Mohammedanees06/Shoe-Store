@@ -3,6 +3,7 @@
 A modern and responsive Shoe Store Landing Page built with React.js & Vite. Features a stylish hero section, CTA buttons, and brand availability icons (Amazon & Flipkart).
 
 🚀 Features
+
 ✔ Responsive & Modern UI
 ✔ Call-to-Action Buttons – "Explore" & "Shop Now"
 ✔ Brand Availability – Amazon & Flipkart
